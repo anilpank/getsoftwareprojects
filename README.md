@@ -41,3 +41,8 @@
 * Try to write up some case studies of the work you've done, and add to these as you finish new projects. 
 
 * Larger projects tend to require more of a time commitment; it may be a struggle to hold them down to five hours a day. It might be better to plan your self-generated work to fit into the gaps between paying jobs rather than trying to do both simultaneously.
+
+* Keep your ears open. Two of my projects came from overhearing people talk about needing a website created or improved.
+
+* Recruiters can help you. Tell them you are looking for contract development and can offer a percentage of the contract (perhaps 10%) to make up for their finders fee.
+
