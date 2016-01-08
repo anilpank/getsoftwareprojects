@@ -46,3 +46,5 @@
 
 * Recruiters can help you. Tell them you are looking for contract development and can offer a percentage of the contract (perhaps 10%) to make up for their finders fee.
 
+# [Bespoke Solutions](http://www.ojblabs.com)
+Brought to you by [OjbLabs](http://www.ojblabs.com)
